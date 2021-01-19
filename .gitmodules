@@ -1,0 +1,12 @@
+[submodule "EML"]
+	path = EML
+	url = git@github.com:tomssem/EML.git
+[submodule "EM"]
+	path = EM
+	url = git@github.com:tomssem/EM.git
+[submodule "DA"]
+	path = DA
+	url = git@github.com:tomssem/DA.git
+[submodule "CP"]
+	path = CP
+	url = git@github.com:tomssem/CP.git
